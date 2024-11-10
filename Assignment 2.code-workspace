@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../Assignment 1"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Assignment-3a"
+		},
+		{
+			"path": "../Assignment-3b"
+		},
+		{
+			"path": "../assignment3c"
+		},
+		{
+			"path": "../Assignment-4a"
+		},
+		{
+			"path": "../Assignment-4b"
+		},
+		{
+			"path": "../Assignment-5a"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Assignment 2"
+	}
+}
